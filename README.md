@@ -1,3 +1,3 @@
 # YouTubeTimeStampGeneration
 
-Dinesh Polisetty, Rahul Yadav, and Jay Vellanki
+Dinesh Polisetty and Rahul Yadav
